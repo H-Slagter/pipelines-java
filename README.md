@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/hiltjoslagter/Tutorials/_apis/build/status/H-Slagter.pipelines-java?branchName=master)](https://dev.azure.com/hiltjoslagter/Tutorials/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
